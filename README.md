@@ -5,7 +5,7 @@
 
 ### Project Page
 
-[Markdown Link](https://katjanewilson.github.io/Propensity-Score-Weighting/)
+[Markdown Link]([https://katjanewilson.github.io/Propensity-Score-Weighting/](https://katjanestrickland.github.io/Propensity-Score-Weighting/)
 
 
 
